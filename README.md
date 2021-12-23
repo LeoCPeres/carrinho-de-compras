@@ -50,7 +50,7 @@ Este é um projeto desenvolvido durante um desafio do **[Ignite](https://www.roc
 $ git clone https://github.com/LeoCPeres/carrinho-de-comrpas
 
 # Go into the repository
-$ cd carrinho-de-comrpas
+$ cd carrinho-de-compras
 
 # Install dependencies
 $ yarn install
